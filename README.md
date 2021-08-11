@@ -11,9 +11,9 @@
 - 💻 My area of interest lies in field of Data Structures, Algorithms and Web Development
 
 ## 🏅 Achievements
-- ⭐ *Global rank 435 among 14,500+ participants* in CodeForces Division 2 Round 726  (June 2021)
-- ⭐ *Global rank 42 among 2,500+ participants* in CodeChef May Cook-off 2021 Division 2  (May 2021)
-- ⭐ *Global rank 2496 among 50,00+ participants* in CodeNation CodeAgon 2020  (September 2020)
+- ⭐ *Global rank 2662 among 12,000+ participants* in CodeForces Division 2 Round 691  
+- ⭐ *Global rank 1566 among 2,500+ participants* in CodeChef Feb Lunchtime 2021 Division 2  
+- ⭐ *Global rank 1957 among 7,700+ participants* in CodeChef Dec Cook-Off 2020 Division 2 
 
 ## 🛠️ Skills
 
@@ -54,3 +54,4 @@ Technologies:
 
 * [My Codeforces Profile](https://codeforces.com/profile/coderkapoor)
 * [My CodeChef Profile](https://www.codechef.com/users/vanshikapoor)
+* [My HackerRank Profile](https://www.hackerrank.com/kvanshika0511)
